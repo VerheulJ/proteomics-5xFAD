@@ -97,11 +97,7 @@ All figures saved in TIFF (600 dpi), SVG, PDF, and PNG formats.
 |------|----------|-------------|
 | `230223-LFQ_Incl-Isoforms_FILTRADAS.xlsx` | `data/raw/` | LFQ protein abundances from Proteome Discoverer (includes isoforms) |
 | `sample-metadata.xlsx` | `data/raw/` | Sample annotations: ID, Genotype, sex |
-| `Enrichment_Results_5xfad_005.xlsx` | `data/processed/` | GO/KEGG enrichment results from STRING |
-| `RED_5xfad_005.xlsx` | `data/processed/` | Protein–protein interaction edges from STRING |
-
-> ⚠️ Raw data files are not tracked in this repository. Available upon reasonable request from the corresponding author: [fernando.rodriguez@ibima.eu](mailto:fernando.rodriguez@ibima.eu)
-
+¡
 ---
 
 ## Dependencies
