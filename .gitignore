@@ -1,0 +1,21 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Raw data (large files)
+data/raw/
+data/processed/*.xlsx
+
+# Generated results
+results/figures/
+results/tables/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
