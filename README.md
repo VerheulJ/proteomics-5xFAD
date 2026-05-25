@@ -22,7 +22,7 @@ The pipeline covers the full workflow from raw LFQ (Label-Free Quantification) a
 | Parameter | 5xFAD |
 |-----------|-------|
 | p-value threshold | **0.01** |
-| FC threshold **50% (log₂ ±0.58/−1.00)** |
+| FC threshold| **50% (log₂ ±0.58/−1.00)** |
 | Coverage filter (5xFAD group) | **≥4 males / ≥2 females** |
 | Input file | **230223-LFQ_Incl-Isoforms_FILTRADAS.xlsx** |
 
