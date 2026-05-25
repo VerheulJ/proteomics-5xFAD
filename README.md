@@ -18,14 +18,13 @@ The pipeline covers the full workflow from raw LFQ (Label-Free Quantification) a
 
 ---
 
-## Key Differences vs 3×Tg-AD Pipeline
 
-| Parameter | 3×Tg-AD | 5xFAD |
-|-----------|---------|-------|
-| p-value threshold | 0.05 | **0.01** |
-| FC threshold | 25% (log₂ ±0.32/−0.41) | **50% (log₂ ±0.58/−1.00)** |
-| Coverage filter (5xFAD group) | ≥3 valid values | **≥4 males / ≥2 females** |
-| Input file | 230414-LFQ_Filtradas.xlsx | **230223-LFQ_Incl-Isoforms_FILTRADAS.xlsx** |
+| Parameter | 5xFAD |
+|-----------|-------|
+| p-value threshold | **0.01** |
+| FC threshold **50% (log₂ ±0.58/−1.00)** |
+| Coverage filter (5xFAD group) | **≥4 males / ≥2 females** |
+| Input file | **230223-LFQ_Incl-Isoforms_FILTRADAS.xlsx** |
 
 ---
 
