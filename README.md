@@ -53,13 +53,6 @@ proteomics-5xFAD/
 │   ├── raw/                              # Input files (not tracked — see below)
 │   └── processed/                        # Intermediate outputs
 │
-├── results/
-│   ├── figures/                          # All generated figures (tif, svg, pdf, png)
-│   └── tables/                           # Differentially expressed proteins, full stats table
-│
-├── docs/
-│   └── pipeline_overview.md              # Step-by-step methodology description
-│
 ├── .gitignore
 └── README.md
 ```
